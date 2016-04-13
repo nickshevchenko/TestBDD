@@ -5,26 +5,10 @@ Feature: Given in background
 Background:
 Given this story has background with given keyword
 
-@SC_45497549
-Scenario: 
-Given this story has background with given keyword
-
-
-@SC_438105508
-Scenario: 
-Given this story has background with given keyword
-
-
-@SC_416526993
-Scenario: 
-Given this story has background with given keyword
-
-
 @Critical @Test_1 @SC_521622261
 Scenario: Check background
 When scenario not necessary must started from  given keyword
 Then gherkin parser must be ok with parsing
-
 
 @Medium @Test_2 @SC_521624261
 Scenario: Check background
