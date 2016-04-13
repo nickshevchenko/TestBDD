@@ -10,6 +10,7 @@ Scenario: Check background
 When scenario not necessary must started from  given keyword
 Then gherkin parser must be ok with parsing
 
+
 @Medium @Test_2 @SC_521624261
 Scenario: Check background
 Given scenario not necessary must started from given keyword but may
