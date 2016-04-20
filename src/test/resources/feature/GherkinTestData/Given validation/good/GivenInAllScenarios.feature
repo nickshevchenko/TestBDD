@@ -75,3 +75,9 @@ Given gherkin parse must return error of parsing
 And Book 5 should have the title '(.+)'
 
 
+@SC_531581216
+Scenario: Scen 12
+Given gherkin parse must return error of parsing
+And Book 5 should have the title '(.+)'
+
+
