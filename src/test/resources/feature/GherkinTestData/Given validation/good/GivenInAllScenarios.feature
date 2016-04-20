@@ -5,6 +5,11 @@ Feature: Given in all scenarios
 Background:
 When in this story background hasn't given keyword
 
+
+Scenario: 
+When in this story background hasn't given keyword
+
+
 @Critical @Test_1 @SC_521577251
 Scenario: Check scenario
 Given this scenario must started from given keyword
@@ -20,5 +25,53 @@ Examples:
 | one | two | three |
 |  |  |  |
 
+
+
+@SC_393585083
+Scenario: Scenario
+Given gherkin parse must return error of parsing
+And Book 5 should have the title '(.+)'
+
+
+@SC_402569228
+Scenario: Scen5
+Given gherkin parse must return error of parsing
+And Book 5 should have the title '(.+)'
+
+
+@SC_418178147
+Scenario: scen 6
+Given gherkin parse must return error of parsing
+And Book 5 should have the title '(.+)'
+
+
+@SC_449802217
+Scenario: Scen 7
+Given gherkin parse must return error of parsing
+And Book 5 should have the title '(.+)'
+
+
+@SC_460020734
+Scenario: Scen 8
+Given gherkin parse must return error of parsing
+And Book 5 should have the title '(.+)'
+
+
+@SC_468786106
+Scenario: Scen 9
+Given gherkin parse must return error of parsing
+And Book 5 should have the title '(.+)'
+
+
+@SC_476910884
+Scenario: Scen 10
+Given gherkin parse must return error of parsing
+And Book 5 should have the title '(.+)'
+
+
+@SC_488566797
+Scenario: Scen 11
+Given gherkin parse must return error of parsing
+And Book 5 should have the title '(.+)'
 
 
