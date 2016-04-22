@@ -1,4 +1,4 @@
-@ST_521534240 @Story_Bad_Badbackground
+@Story_Bad_Badbackground @ST_521534240
 Feature: background and scenario without given
 Check Background without given keyword
 

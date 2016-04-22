@@ -1,4 +1,4 @@
-@ST_521693277 @Story_BookSearch
+@Story_BookSearch @ST_521693277
 Feature: Salary Management
 
 
