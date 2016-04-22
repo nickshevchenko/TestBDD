@@ -1,10 +1,16 @@
-@Story_Bad @kj @ST_254740702
+@ST_254740702 @Story_Bad @kj
 Feature: Given in only one scenariol
 Check Background without given keywordjh
 
 Background:
 Given asd
 And kjsdfhk
+
+
+Scenario: 
+Given asd
+And kjsdfhk
+
 
 @Critical @Test_1 @SC_254744701
 Scenario: Check scenario
