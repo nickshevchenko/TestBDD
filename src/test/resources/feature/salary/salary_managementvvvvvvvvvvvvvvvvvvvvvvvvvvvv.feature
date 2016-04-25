@@ -1,7 +1,6 @@
 @Story_BookSearch @ST_521790299
 Feature: Salary Management
 
-
 Background:
 Given the salary management system is initialized with the following data
 | id | user | salary |
