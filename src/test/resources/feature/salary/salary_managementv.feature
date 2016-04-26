@@ -91,8 +91,25 @@ Examples:
 
 
 @SC_935245373
-Scenario: 
+Scenario: 4
 When sldfkg
 And sdfg
+
+
+@SC_597198812
+Scenario: 5 sdfgs
+Given alkdsfj
+And asdf
+
+
+@SC_832395343
+Scenario Outline: 6 hahaha
+When the payroll for the employee with id 5 should display a salary of 7
+And the boss increases the salary for the <user> with id <id> by 6%
+Then the customer searches for books published between 56 and 17
+
+Examples: 
+|user|id|
+|||
 
 
