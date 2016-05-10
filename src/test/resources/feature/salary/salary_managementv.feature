@@ -1,4 +1,4 @@
-Feature: Salary Management
+Feature: Salary Management1
 
 Background:
 Given the salary management system is initialized with the following data
