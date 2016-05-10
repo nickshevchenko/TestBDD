@@ -1,6 +1,5 @@
-Feature: Salary
+Feature: Salaryy
 
-  
   Scenario: Modify an employee's salary
     Given the salary management system is initialized with the following data
       | id  | user      | salary   |
