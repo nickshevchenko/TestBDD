@@ -7,7 +7,13 @@ Background:
 Given asd
 And kjsdfhk
 
-@SC_492377197 @tag1
+@SC_478543792
+Scenario: Scenario #1
+Given asd
+And kjsdfhkdfdfdfdfdff adasdasd
+And asdasdasd asdsadas
+
+@tag1 @SC_492377197
 Scenario Outline: Scenario #2
 Description olala
 Given asd
@@ -17,12 +23,6 @@ When add a new table with <first><second><3>
 Examples: 
 |first|second|3|
 |1|2|3|
-
-@SC_478543792
-Scenario: Scenario #1
-Given asd
-And kjsdfhkdfdfdfdfdff adasdasd
-And asdasdasd asdsadas
 
 @SC_459889826
 Scenario: Check scenario
