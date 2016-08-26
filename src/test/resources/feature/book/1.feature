@@ -10,7 +10,7 @@ And kjsdfhk
 @SC_478543792
 Scenario: 
 Given asd
-And kjsdfhkdfdfdfdfdff
+And kjsdfhkdfdfdfdfdff adasdasd
 And asdasdasd
 
 @SC_492377197
