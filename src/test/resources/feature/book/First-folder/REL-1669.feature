@@ -2,7 +2,7 @@
 Feature: Global
 Description Resting in a piece
 
-@SC_367534291 @scenario#1 @scenario0
+@scenario#1 @SC_367534291 @scenario0
 Scenario Outline: Email changed to email
 Given First step
 Then second step
