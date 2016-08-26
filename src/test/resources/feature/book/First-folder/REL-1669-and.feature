@@ -1,6 +1,6 @@
 @ST_376026398 @featuretag
 Feature: Global one one
-Description Resting in a piece
+Description Resting in a piece la la la
 
 @scenario#1 @SC_367534291 @scenario0
 Scenario Outline: Email changed to email
