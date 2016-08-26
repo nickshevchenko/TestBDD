@@ -1,4 +1,4 @@
-@ST_442272599
+@ST_442272599 @first-tag
 Feature: Given in only one scenariol
 Check Background without given keywordjh
 
