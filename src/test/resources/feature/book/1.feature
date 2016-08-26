@@ -8,7 +8,7 @@ Given asd
 And kjsdfhk
 
 @SC_478543792
-Scenario: 
+Scenario: Scenario #1
 Given asd
 And kjsdfhkdfdfdfdfdff adasdasd
 And asdasdasd asdsadas
