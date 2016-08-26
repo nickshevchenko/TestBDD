@@ -1,5 +1,5 @@
 @ST_376026398
-Feature: Global
+Feature: Global one one
 Description Resting in a piece
 
 @scenario#1 @SC_367534291 @scenario0
