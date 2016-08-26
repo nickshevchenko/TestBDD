@@ -1,4 +1,4 @@
-@ST_376026398
+@ST_376026398 @featuretag
 Feature: Global one one
 Description Resting in a piece
 
