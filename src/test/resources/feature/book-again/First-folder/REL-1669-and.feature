@@ -8,6 +8,7 @@ Given First step
 Then second step
 When 3rd step
 When olala <row1><22>
+Then a new step
 
 Examples: 
 |row1|22|
