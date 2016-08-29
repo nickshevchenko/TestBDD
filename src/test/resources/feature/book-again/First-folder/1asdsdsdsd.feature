@@ -8,10 +8,17 @@ Given asd
 And kjsdfhk
 
 @SC_478543792
-Scenario: Scenario #1
+Scenario Outline: Scenario #1
 Given asd
 And kjsdfhkdfdfdfdfdff adasdasd
 And asdasdasd asdsadas
+Then add a new table with <first><second><3>
+When i want do smth with "smth"
+Then test
+
+Examples: 
+|first|second|3|
+||||
 
 @tag1 @SC_492377197
 Scenario Outline: Scenario #2
