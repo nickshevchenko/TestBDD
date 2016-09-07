@@ -41,5 +41,5 @@ Then ET step conatins a table with <first column>
 
 Examples: 
 |first column|
-|Adding a new rowwith a row that's located on a separate rowIt was created to test it.|
+|Adding a new row with a row that's located on a separate row. It was created to test it. And what can we see here?Okay. Let's go.|
 
