@@ -33,3 +33,13 @@ And Book 1 should have the title 'Some other book'
 And Book 2 should have the title 'One good book'
 Then i want do smth with "smth"
 
+@SC_686061630
+Scenario Outline: ET: a few rows in a cell
+Given a new scenario created for a testing purposes to test a few rows in a single cell
+Then add a scenario step to create a table 1
+Then ET step conatins a table with <first column>
+
+Examples: 
+|first column|
+|Adding a new rowwith a row that's located on a separate rowIt was created to test it.|
+
