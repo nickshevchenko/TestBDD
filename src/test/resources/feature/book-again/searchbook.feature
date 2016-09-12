@@ -7,7 +7,7 @@ Background:
 Given a $100 microwave was sold on 2015-11-03
 And today is 2015-11-18
 
-@SC_965223046
+@SC_1006719840
 Scenario Outline: 
 Given a new scenario created for a testing purposes to test a few rows in a single cell
 Then add a scenario step to create a table 1
@@ -52,4 +52,14 @@ Then ET step conatins a table with <first column>
 Examples: 
 |first column|
 |Adding a new row with a row that's located on a separate row. It was created to test it.And what can we see here?Okay. Let's go.asdasdasdasddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd|
+
+@SC_965223046
+Scenario Outline: 
+Given a new scenario created for a testing purposes to test a few rows in a single cell
+Then add a scenario step to create a table 1
+Then ET step conatins a table with <first column>
+
+Examples: 
+|first column|
+||
 
