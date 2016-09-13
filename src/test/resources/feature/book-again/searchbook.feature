@@ -43,6 +43,7 @@ Examples:
 |first column|
 |Adding a new row with a row that's located on a separate row. It was created to test it.And what can we see here?Okay. Let's go.asdasdasdasddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd|
 
+
 @SC_965223046
 Scenario Outline: 
 Given a new scenario created for a testing purposes to test a few rows in a single cell
@@ -52,6 +53,7 @@ Then ET step conatins a table with <first column>
 Examples: 
 |first column|
 ||
+
 
 @SC_1006719840
 Scenario Outline: 
@@ -63,6 +65,7 @@ Examples:
 |first column|
 ||
 
+
 @SC_1020726138
 Scenario Outline: 
 Given a new scenario created for a testing purposes to test a few rows in a single cell
@@ -72,6 +75,7 @@ Then ET step conatins a table with <first column>
 Examples: 
 |first column|
 ||
+
 
 @SC_993719269
 Scenario Outline: 
@@ -83,6 +87,7 @@ Examples:
 |first column|
 ||
 
+
 @SC_981202532
 Scenario Outline: 
 Given a new scenario created for a testing purposes to test a few rows in a single cell
@@ -92,6 +97,7 @@ Then ET step conatins a table with <first column>
 Examples: 
 |first column|
 ||
+
 
 @SC_999218719
 Scenario Outline: 
@@ -103,6 +109,7 @@ Examples:
 |first column|
 ||
 
+
 @SC_998399420
 Scenario Outline: 
 Given a new scenario created for a testing purposes to test a few rows in a single cell
@@ -112,6 +119,7 @@ Then ET step conatins a table with <first column>
 Examples: 
 |first column|
 ||
+
 
 @SC_86978380
 Scenario: 
