@@ -17,6 +17,11 @@ Background:
 Given asd
 And kjsdfhk
 
+@SC_991855294
+Scenario: Not Synced Scenario
+Given a new scenario created for a testing purposes to test a few rows in a single cell
+Then a new step
+
 @SC_478543792
 Scenario Outline: Scenario #1
 Given asd
