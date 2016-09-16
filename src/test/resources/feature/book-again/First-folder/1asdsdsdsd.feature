@@ -17,11 +17,6 @@ Background:
 Given asd
 And kjsdfhk
 
-@SC_991855294
-Scenario: Not Synced Scenario
-Given a new scenario created for a testing purposes to test a few rows in a single cell
-Then a new step
-
 @SC_478543792
 Scenario Outline: Scenario #1
 Given asd
@@ -56,5 +51,15 @@ And kjsdfhk
 @SC_477764632
 Scenario: Check another scenario
 When this scenario started without given keyword
-Then gherkin parser must return error
+Then gherkin parser must return error aaa
+
+@SC_991855294
+Scenario: Not Synced Scenario
+Given a new scenario created for a testing purposes to test a few rows in a single cell
+Then a new step
+
+@SC_90103609
+Scenario: Not Synced Scenario - part 2
+Given a 100 microwave was sold on 2015-11-03
+Then a 100 microwave was sold on 2015-11-03
 
