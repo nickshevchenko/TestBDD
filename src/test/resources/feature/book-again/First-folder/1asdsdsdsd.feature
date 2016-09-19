@@ -28,6 +28,7 @@ Examples:
 |first|second|3|
 |1|2|3|
 
+
 @SC_478543792
 Scenario Outline: Scenario #1
 Given asd
@@ -40,6 +41,7 @@ Then test
 Examples: 
 |first|second|3|
 ||||
+
 
 @SC_459889826
 Scenario: Check scenario
