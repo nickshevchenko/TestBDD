@@ -30,6 +30,7 @@ Examples:
 |first|second|3|
 ||||
 
+
 @tag1 @SC_492377197
 Scenario Outline: Scenario #2
 Description olala
@@ -40,6 +41,7 @@ When add a new table with <first><second><3>
 Examples: 
 |first|second|3|
 |1|2|3|
+
 
 @SC_459889826
 Scenario: Check scenario
