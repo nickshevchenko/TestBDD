@@ -30,7 +30,6 @@ Examples:
 |first|second|3|
 ||||
 
-
 @tag1 @SC_492377197
 Scenario Outline: Scenario #2
 Description olala
