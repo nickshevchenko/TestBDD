@@ -1,8 +1,8 @@
-@ST_376026398 @featuretag @asdasdsad @sdsd
+@featuretag @asdasdsad @sdsd @ST_1004591628
 Feature: Global one one
 Description Resting in a piece la la la
 
-@SC_367534291 @scenario#1 @scenario0
+@scenario#1 @scenario0 @SC_995398422
 Scenario Outline: Email changed to email
 Given First step
 Then second step
