@@ -28,6 +28,7 @@ Examples:
 |first|second|3|
 |1|2|3|
 
+
 @SC_1008595840
 Scenario Outline: Scenario #1
 Given asd
