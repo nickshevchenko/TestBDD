@@ -1,4 +1,4 @@
-@ST_1004591628 @featuretag @asdasdsad @a
+@ST_1004591628 @featuretag @asdasdsad @s
 Feature: Global one one
 Description Resting in a piece la la la
 
