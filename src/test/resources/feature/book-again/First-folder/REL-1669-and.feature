@@ -2,10 +2,10 @@
 Feature: Global one one
 Description Resting in a piece la la la
 
-@scenario#1 @scenario0 @SC_995398422
+@SC_995398422 @scenario#1 @scenario0
 Scenario Outline: Email changed to email
-Given First step
-Then second step
+Given First stepasd asdsasd
+Then second step asdasdsadsdadddddd
 When 3rd step
 When olala <row1><22>
 Then a new step
@@ -13,5 +13,4 @@ Then a new step
 Examples: 
 |row1|22|
 |email|email|
-
 
