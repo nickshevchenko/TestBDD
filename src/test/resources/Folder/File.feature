@@ -1,4 +1,4 @@
-@tags @ST_952877124
+@tags
 Feature: Feature
 Description
 
