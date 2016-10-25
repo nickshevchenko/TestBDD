@@ -2,7 +2,11 @@
 Feature: Feature
 
 @SC_49053 @dada @G
-Scenario: Scenario
+Scenario Outline: Scenario
 Dada
 Given when
-When given
+When given <table><and table>
+
+Examples: 
+|table|and table|
+|one\|two\|
