@@ -1,4 +1,4 @@
-Feature:
+Feature: It could not be loaded without a name
 
 Scenario: 
 Given ee
