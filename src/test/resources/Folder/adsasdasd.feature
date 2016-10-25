@@ -1,5 +1,5 @@
 @ST_1781 @ST_987284471
-Feature: Feature
+Feature:
 
 @SC_49408
 Scenario: 
