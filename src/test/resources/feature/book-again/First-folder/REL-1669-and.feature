@@ -2,11 +2,6 @@
 Feature: Global one one
 Description Resting in a piece la la la
 
-@SC_48645
-Scenario: тлоро
-Given kjlk
-Then hkjk
-
 @SC_8446 @scenario#1 @scenario0 @SC_995398422
 Scenario Outline: Email changed to email
 Given First stepasd asdsasd
