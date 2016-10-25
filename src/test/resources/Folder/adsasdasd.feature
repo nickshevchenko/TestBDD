@@ -5,7 +5,7 @@ Feature: Feature
 Scenario Outline: Scenario
 Dada
 Given when
-When given <table><and table>
+When given <table><and table>dsfdfdsf
 
 Examples: 
 |table|and table|
