@@ -17,10 +17,10 @@ Background:
 Given asd
 And kjsdfhk
 
-@SC_49594
-Scenario: Check scenario
-Given asd
-And kjsdfhkasdasdasdadad
+@SC_49595
+Scenario: Check another scenario
+When this scenario started without given keyword
+Then gherkin parser must return erroadasdasdasdasdr aaa
 
 @SC_49592 @tag1
 Scenario Outline: Scenario #2
@@ -60,10 +60,10 @@ Examples:
 |||||||||||||
 |||||||||||||
 
-@SC_49595
-Scenario: Check another scenario
-When this scenario started without given keyword
-Then gherkin parser must return erroadasdasdasdasdr aaa
+@SC_49594
+Scenario: Check scenario
+Given asd
+And kjsdfhkasdasdasdadad
 
 @SC_49596
 Scenario: Not Synced Scenario
