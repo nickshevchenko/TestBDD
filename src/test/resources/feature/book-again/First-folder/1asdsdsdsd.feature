@@ -17,10 +17,10 @@ Background:
 Given asd
 And kjsdfhk
 
-@SC_49595
-Scenario: Check another scenario
-When this scenario started without given keyword
-Then gherkin parser must return erroadasdasdasdasdr aaa
+@SC_49596
+Scenario: Not Synced Scenario
+Given a new scenario created for a testing purposes to test a few rows in a single cell
+Then a new stepasdasdasdasdasd
 
 @SC_49592 @tag1
 Scenario Outline: Scenario #2
@@ -65,10 +65,10 @@ Scenario: Check scenario
 Given asd
 And kjsdfhkasdasdasdadad
 
-@SC_49596
-Scenario: Not Synced Scenario
-Given a new scenario created for a testing purposes to test a few rows in a single cell
-Then a new stepasdasdasdasdasd
+@SC_49595
+Scenario: Check another scenario
+When this scenario started without given keyword
+Then gherkin parser must return erroadasdasdasdasdr aaa
 
 @SC_49597
 Scenario: Not Synced Scenario - part 2
