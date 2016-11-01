@@ -48,3 +48,9 @@ Scenario: Books search
 When I enter book's name
 And click Search
 Then I get the result in a table
+
+@SC_55594
+Scenario: Books search
+When I enter book's name
+And click Search
+Then I get the result in a table
