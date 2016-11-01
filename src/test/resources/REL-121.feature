@@ -25,3 +25,14 @@ And i want do smth with "this"
 Scenario: Another scenario
 Given i want do smth with "work"
 Then want i do "good"
+
+@SC_55591
+Scenario Outline: Scenario Four
+Given the payroll for the employee with id 4 should display a salary of 9
+And the boss increases the salary for the employee with id 5 by 8%
+And the payroll for the employee with id 5 should display a salary of 23
+And the boss increases the salary for the <user> with id <id> by 5%
+
+Examples: 
+|user|id|
+|ivanov|5|
