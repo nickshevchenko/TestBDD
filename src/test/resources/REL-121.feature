@@ -36,3 +36,9 @@ And the boss increases the salary for the <user> with id <id> by 5%
 Examples: 
 |user|id|
 |ivanov|5|
+
+@SC_55592
+Scenario: Books search
+When I enter book's name
+And click Search
+Then I get the result in a table
