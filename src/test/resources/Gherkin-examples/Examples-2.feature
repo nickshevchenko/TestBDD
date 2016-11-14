@@ -1,6 +1,8 @@
+@ST_15958
 Feature: Examples name and description
 
-Scenario Outline:
+@SC_67762
+Scenario Outline: 
 Given I am signed in Relime
 And I have a domain created
 And I have a project created
