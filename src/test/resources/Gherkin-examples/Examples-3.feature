@@ -1,4 +1,3 @@
-
 Feature: Examples name and description
 
 Scenario:
