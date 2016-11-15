@@ -1,10 +1,10 @@
-@ST_14798
+@ST_17591
 Feature: Background
 
 Background: a simple background
 
 Given the minimalism inside a background
 
-@SC_62124
+@SC_74214
 Scenario: minimalistic
 Given the minimalism

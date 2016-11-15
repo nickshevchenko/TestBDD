@@ -1,7 +1,7 @@
-@ST_15960
+@ST_17604
 Feature: Examples without a name
 
-@SC_67764
+@SC_74255
 Scenario Outline: 
 Given I am signed in Relime
 And I have a domain created

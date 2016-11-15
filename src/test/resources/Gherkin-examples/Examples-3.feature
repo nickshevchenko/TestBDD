@@ -1,7 +1,7 @@
-@ST_15959
+@ST_17603
 Feature: Scenario Outline and Examples
 
-@SC_67763
+@SC_74254
 Scenario Outline: 
 Given I am signed in Relime
 And I have a domain created
