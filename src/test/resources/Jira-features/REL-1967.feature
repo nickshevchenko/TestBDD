@@ -25,3 +25,13 @@ And I am not logged in Relime
 When I log in Relime
 And I navigate to the same scenario
 Then I can see that this scenario is not saved and changes are discarded
+
+@SC_74259
+Scenario: 'SAVE AND PROCEED' button functionality of 'SAVE SCENARIOS' pop-up while log out within Public domain
+When I click button 'SAVE AND PROCEED' on pop-up 'SAVE SCENARIOS' on page 'Editor'
+Then I can see that I am redirected to page 'Landing'
+And I am not logged in Relime
+When I log in Relime again
+And I navigate to the same scenario
+Then I can see that changes in this scenario are saved
+#please note that checking cases for different browser tabs are not covered
