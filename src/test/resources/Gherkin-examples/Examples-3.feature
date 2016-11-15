@@ -1,5 +1,5 @@
 @ST_15959
-Feature: Examples name and description
+Feature: Scenario Outline and Examples
 
 @SC_67763
 Scenario Outline: 
@@ -9,7 +9,7 @@ And I have a project created
 When I open a project and invite subscribers <First Name> <Last Name> <Email>
 Then I see a notification about successful invitation
 
-Examples: Subscribers
+Examples: Subscribers table
 Here in the table I'd like to show how Example Table Descriptions are displayed on Relime Scenario Editor page. Here it is.
 |First Name|Last Name|Email|
 |Nick|Oliver|oliver@mail.com|
