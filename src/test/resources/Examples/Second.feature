@@ -1,5 +1,5 @@
 @ST_17527
-Feature: Examples without a name
+Feature: Feature and Examples
 
 @SC_73940
 Scenario Outline: 
