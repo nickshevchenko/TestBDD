@@ -12,8 +12,7 @@ And I see that drop-down for user avatar is shown
 And I click on item 'Sign out' within drop-down of user avatar
 And I can see that pop-up 'SAVE SCENARIOS' is opened on page 'Editor'
 
-@SC_74258
-Scenario: 'Cancel' and 'Leave' functionality of 'SAVE SCENARIOS' pop-up while log out within Public domain
+'Cancel' and 'Leave' functionality of 'SAVE SCENARIOS' pop-up while log out within Public domain
 When I click button 'CANCEL' on pop-up 'SAVE SCENARIOS' on page 'Editor'
 Then I can see that pop-up 'SAVE SCENARIOS' is dissappeared
 And I can see that I am on page 'Editor' with scenario I modified
