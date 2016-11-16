@@ -2,7 +2,7 @@
 Feature: Feature and Examples
 
 @SC_74227
-Scenario: 
+Scenario Outline: 
 Given I am signed in Relime
 And I have a domain created
 And I have a project created
