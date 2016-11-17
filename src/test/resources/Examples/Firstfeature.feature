@@ -1,4 +1,4 @@
-@ST_17626 @rest @restq
+@ST_17626 @rest @restq @qqqqq
 Feature: Examples without a name
 
 @SC_74317
