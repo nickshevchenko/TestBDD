@@ -28,9 +28,3 @@ And I click button 'Save' on pop-up 'SAVE SCENARIOS'
 Then I see that pop-up 'SAVE SCENARIOS' is closed
 And I see that notification error "You should link your valid Git account to perform changes in the feature." is displayed in the right top corner of page 'Editor'
 And I see that icon 'Git' is displayed in 'Not synced' state #comment to delete
-
-@SC_82643
-Scenario: 
-Given test
-When test
-And test test
