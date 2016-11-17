@@ -1,5 +1,5 @@
 @ST_17626 @rest @restq @qqqqq
-Feature: Examples without a name
+Feature: Examples without
 
 @SC_74317
 Scenario Outline: 
