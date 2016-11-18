@@ -20,3 +20,8 @@ scenar name's description
 Given i want do smth with "work"
 Then want i do "good"
 And i want do smth with "this"
+
+@SC_83249
+Scenario: Another scenario
+Given i want do smth with "work"
+Then want i do "good"
