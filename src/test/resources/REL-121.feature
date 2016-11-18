@@ -13,3 +13,10 @@ And new string
 Scenario: Books
 Given the customer searches for books published between 8 and 18
 Then Book 9 should have the title 'Harry Potter'
+
+@SC_83248 @121Scen @scenTag
+Scenario: scenar name
+scenar name's description
+Given i want do smth with "work"
+Then want i do "good"
+And i want do smth with "this"
