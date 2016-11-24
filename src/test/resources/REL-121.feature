@@ -36,3 +36,8 @@ And the boss increases the salary for the <user> with id <id> by 5%
 Examples: 
 |user|id|
 |ivanov|5|
+
+@SC_87549
+Scenario: Ahaha ha ha scenario
+Given ahaha
+Then make ahaha again
