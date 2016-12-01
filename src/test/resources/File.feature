@@ -1,2 +1,6 @@
 @ST_22946
-Feature:
+Feature: 
+
+Background: Background
+Background
+Given all the pages required for testing are opened
