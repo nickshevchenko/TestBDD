@@ -24,3 +24,4 @@ Here in the table I'd like to show how Example Table Descriptions are displayed 
 Scenario: 
 Given when
 When then
+Then end
