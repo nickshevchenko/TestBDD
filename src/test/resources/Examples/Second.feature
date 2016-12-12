@@ -16,4 +16,3 @@ Okey okey to run the table
 |Oliver|Oliver|oliver.o@mail.com|
 |Jane|Doe|jane.doe@mail.com|
 |John|Doe|john.doe@yahoo.co.uk|
-|Mike|Mike|mike@mail.com|
