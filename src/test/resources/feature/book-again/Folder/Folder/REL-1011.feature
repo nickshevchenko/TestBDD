@@ -19,7 +19,6 @@ Here in the table I'd like to show how Example Table Descriptions are displayed 
 |Jane|Doe|jane.doe@mail.com|
 |John|Doe|john.doe@yahoo.co.uk|
 
-
 @SC_104339
 Scenario: 
 Given when
