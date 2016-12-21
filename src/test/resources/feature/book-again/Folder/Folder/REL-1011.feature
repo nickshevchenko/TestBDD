@@ -18,8 +18,7 @@ Here in the table I'd like to show how Example Table Descriptions are displayed 
 |Oliver|Oliver|oliver.o@mail.com|
 |Jane|Doe|jane.doe@mail.com|
 |John|Doe|john.doe@yahoo.co.uk|
-|Future|Future|future@mail.com|
-
+|Future1|Future|future@mail.com|
 
 @SC_104339
 Scenario: 
