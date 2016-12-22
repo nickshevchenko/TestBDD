@@ -1,6 +1,7 @@
 @ST_31775
 Feature: Good feature
 
+@SC_125992
 Scenario Outline: 
 Scenario description la la la description.
 Given I am signed in Relime
