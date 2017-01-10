@@ -120,9 +120,3 @@ Then ET step conatins a table with <first column>
 Examples: 
 |first column|
 ||
-
-
-@SC_74332
-Scenario: 
-Given a $100 microwave was sold on 2015-11-03
-And today is 2015-11-18
