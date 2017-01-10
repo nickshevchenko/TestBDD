@@ -7,6 +7,16 @@ Background:
 Given a $100 microwave was sold on 2015-11-03
 And today is 2015-11-18
 
+@SC_74331
+Scenario Outline: 
+Given a new scenario created for a testing purposes to test a few rows in a single cell
+Then add a scenario step to create a table 1
+Then ET step conatins a table with <first column>
+
+Examples: 
+|first column|
+||
+
 @SC_74320
 Scenario: Renamed item
 When a $100 microwave was sold on 2015-11-03
@@ -101,17 +111,6 @@ Examples:
 
 
 @SC_74330
-Scenario Outline: 
-Given a new scenario created for a testing purposes to test a few rows in a single cell
-Then add a scenario step to create a table 1
-Then ET step conatins a table with <first column>
-
-Examples: 
-|first column|
-||
-
-
-@SC_74331
 Scenario Outline: 
 Given a new scenario created for a testing purposes to test a few rows in a single cell
 Then add a scenario step to create a table 1
