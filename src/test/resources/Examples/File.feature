@@ -17,3 +17,13 @@ Here in the table I'd like to show how Example Table Descriptions are displayed 
 |Oliver|Oliver|oliver.o@mail.com|
 |Jane|Doe|jane.doe@mail.com|
 |John|Doe|john.doe@yahoo.co.uk|
+
+
+@SC_128780
+Scenario Outline: New scenario
+Given a new scneario to test something
+Then create a table to test <table><or not><a table>
+
+Examples: 
+|table|or not|a table|
+||||
