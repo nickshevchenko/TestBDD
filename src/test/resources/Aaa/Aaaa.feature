@@ -1,8 +1,8 @@
 @ST_40953
 Feature: aAaaaa
 
-@SC_155198
-Scenario Outline: A4
+@SC_155196
+Scenario Outline: A2
 Given I am signed in Relime
 And I have a domain created
 And I have a project created
@@ -25,8 +25,9 @@ Examples:
 |First Name|Last Name|Email|
 ||||
 
-@SC_155196
-Scenario Outline: A2
+
+@SC_155197
+Scenario Outline: A3
 Given I am signed in Relime
 And I have a domain created
 And I have a project created
@@ -37,8 +38,9 @@ Examples:
 |First Name|Last Name|Email|
 ||||
 
-@SC_155197
-Scenario Outline: A3
+
+@SC_155198
+Scenario Outline: A4
 Given I am signed in Relime
 And I have a domain created
 And I have a project created
