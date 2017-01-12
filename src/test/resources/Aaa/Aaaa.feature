@@ -26,6 +26,8 @@ Examples:
 |First Name|Last Name|Email|
 ||||
 
+
+@SC_155199
 Scenario Outline: A5
 Given I am signed in Relime
 And I have a domain created
