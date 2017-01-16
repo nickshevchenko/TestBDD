@@ -1,7 +1,7 @@
-@ST_31775
+@ST_41090
 Feature: Good feature
 
-@SC_125992
+@SC_155690
 Scenario Outline: 
 Scenario description la la la description.
 Given I am signed in Relime
@@ -19,7 +19,7 @@ Here in the table I'd like to show how Example Table Descriptions are displayed 
 |John|Doe|john.doe@yahoo.co.uk|
 
 
-@SC_128780
+@SC_155691
 Scenario Outline: New scenario
 Given a new scneario to test something
 Then create a table to test <table><or not><a table>
