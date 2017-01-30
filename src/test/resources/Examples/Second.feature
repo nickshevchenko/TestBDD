@@ -3,7 +3,7 @@ Feature: Feature and Examples
 
 @SC_155692
 Scenario Outline: 
-Given I am signed in Relime sdfsdfsdfsdf
+Given I am signed in Relime
 And I have a domain created
 And I have a project created
 When I open a project and invite subscribers <First Name> <Last Name> <Email>
