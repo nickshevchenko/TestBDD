@@ -4,7 +4,7 @@ Feature: Dd
 @SC_200881
 Scenario: D2
 Given I am signed in Relime
-And I have a domain created
+And I have a domain created <>
 And I have a project created
 When I open a project and invite subscribers
 Then I see a notification about successful invitation
