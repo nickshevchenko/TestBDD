@@ -20,6 +20,7 @@ Here in the table I'd like to show how Example Table Descriptions are displayed 
 |John|Doe|john.doe@yahoo.co.uk|
 |Future1|Future|future@mail.com|
 
+
 @SC_104339
 Scenario: 
 Given when
