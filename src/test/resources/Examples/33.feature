@@ -1,5 +1,7 @@
+@ST_67904
 Feature: User should be able to sort users by Name column values on Team panel on Dashboard page
 
+@SC_255352
 Scenario: Sorting availability in TEAM panel for Domain Owner
 Given I am logged in Relime as domain owner sdfsdfsdf
 And I have the created domain
@@ -17,6 +19,7 @@ Then I can see that subscribers are sorted by descending order by first name
 And I can see that sorting by first name is case-insensitive
 And I see that index numbers in column with header "#" are not updated
 
+@SC_255353
 Scenario: Sorting availability in TEAM panel for subscribed PM/TM user (non-DO)
 Given I am logged in Relime
 And I am subscribed to domain as non-Domain Owner
