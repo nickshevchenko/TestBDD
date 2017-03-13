@@ -1,4 +1,4 @@
-@ST_10235 @GitEditorPage
+@GitEditorPage
 Feature: Git editor page
 
 Background: 
