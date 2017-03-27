@@ -30,6 +30,11 @@ And I click on button "Add" on pop-up "ADD GIT REPOSITORY PATH"
 Then I see that "Git" is added to setting 'Version control system' in page 'Project settings'
 When I selected menu "default" in dropdown 'Account' at block VCS
 
+@SC_308910
+Scenario: 
+Given gggg
+Then aaaaa
+
 @SC_255347 @REL-779
 Scenario: Load project from Git
 Given I am in page "Editor"
